@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ALL Tests">
+    <test name="Site">
+        <classes >
+            <class name="Site.SiteTests"/>
+        </classes>
+    </test>
+    <test name="StarWarsApi">
+        <classes >
+            <class name="StarWars.StarWarsApi"/>
+        </classes>
+    </test>
+</suite>

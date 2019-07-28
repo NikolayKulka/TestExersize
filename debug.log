@@ -1,0 +1,20 @@
+[0326/162410.335:ERROR:process_reader_win.cc(242)] ReadMemory at 0x19178aa4640 of 72 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0326/162410.336:WARNING:pe_image_annotations_reader.cc(133)] could not read annotations list object in C:\Program Files (x86)\Google\Chrome\Application\65.0.3325.181\chrome_child.dll
+[0823/122650.308:ERROR:process_info.cc(359)] UncheckedAllocate
+[0929/213859.575:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: Идет закрытие канала. (0xE8)
+[0128/232037.964:ERROR:process_info.cc(359)] UncheckedAllocate
+[0314/174125.880:ERROR:process_info.cc(359)] UncheckedAllocate
+[0314/174125.908:ERROR:process_info.cc(359)] UncheckedAllocate
+[0315/164716.583:ERROR:process_info.cc(359)] UncheckedAllocate
+[0315/164951.464:ERROR:process_info.cc(359)] UncheckedAllocate
+[0424/194350.103:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0502/181114.903:ERROR:process_info.cc(359)] UncheckedAllocate
+[0503/143457.792:ERROR:process_info.cc(359)] UncheckedAllocate
+[0503/143727.741:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\kulka.n\AppData\Local\Temp\scoped_dir115568_14987\Crashpad\reports\e02abc01-b07d-44fa-afff-34e7f1411da3.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
+[0507/153009.374:ERROR:process_info.cc(359)] UncheckedAllocate
+[0507/153032.968:ERROR:process_info.cc(359)] UncheckedAllocate
+[0514/185631.227:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\kulka.n\AppData\Local\Temp\scoped_dir353800_2056\Crashpad\reports\9b9be8a5-3289-489f-9afb-86fff9ff90de.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
+[0514/190019.363:ERROR:process_info.cc(359)] UncheckedAllocate
+[0514/190135.758:ERROR:process_info.cc(359)] UncheckedAllocate
+[0516/193526.813:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0603/124025.114:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<constant>
+    <baseData id="1">
+        <driver>Chrome</driver>
+        <waiterTime>60</waiterTime>
+        <mainUrl>https://my-sandbox.maxpay.com/#/signin</mainUrl>
+    </baseData>
+    <testData id="2">
+        <password>1234567890Qw</password>
+        <email>superqa@test.com</email>
+    </testData>
+</constant>
